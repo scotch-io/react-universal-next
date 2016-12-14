@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "next"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "author": "Christian Nwamba",
   "license": "MIT",
